@@ -1,0 +1,3 @@
+RUN as below:
+
+#  ansible-playbook -i hosts modprobe_test.yml
